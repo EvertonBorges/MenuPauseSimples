@@ -51,7 +51,7 @@ MenuPauseSimples/
 │   ├── Scripts/
 │   │   └── UiController.cs
 │   ├── Scenes/
-│   │   └── MainScene.unity
+│   │   └── SampleScene.unity
 │   └── ...
 ├── ProjectSettings/
 ├── README.md
